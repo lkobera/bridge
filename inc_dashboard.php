@@ -3,7 +3,7 @@
     <p>
         <? if ($_SERVER['HTTP_HOST']=='dev.autoskolaeasy.cz'):?>development<? endif?>
         <? if ($_SERVER['HTTP_HOST']=='admin.autoskolaeasy.cz'):?>verze<? endif?>
-        2.3
+        2.31
     </p>
 </div>
 <div class="container-fluid">
