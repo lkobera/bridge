@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="ajax_create_xml_file.php" server="ftpadmin.autoskolaeasy.cz" local="131314079175898996" remote="131314042800000000" Dst="1" />
+<file name="ajax_hlasenka_create.php" server="ftpadmin.autoskolaeasy.cz" local="131169775850932906" remote="130974552000000000" Dst="2" />
+<file name="ajax_hlasenka_lock.php" server="ftpadmin.autoskolaeasy.cz" local="131169775865259875" remote="130974552000000000" Dst="2" />
+<file name="ajax_logout.php" server="ftpadmin.autoskolaeasy.cz" local="131169775865867079" remote="130974552000000000" Dst="2" />
+<file name="ajax_matrika_poznamka_update.php" server="ftpadmin.autoskolaeasy.cz" local="131169775876416888" remote="130974552000000000" Dst="2" />
+<file name="ajax_matrika_instruktor_update.php" server="ftpadmin.autoskolaeasy.cz" local="131169775877687596" remote="130974552000000000" Dst="2" />
+<file name="ajax_platby_insert.php" server="ftpadmin.autoskolaeasy.cz" local="131169775879181916" remote="130974552000000000" Dst="2" />
+<file name="ajax_praxe_insert.php" server="ftpadmin.autoskolaeasy.cz" local="131169775888700050" remote="130974552000000000" Dst="2" />
+<file name="ajax_praxe_table.php" server="ftpadmin.autoskolaeasy.cz" local="131378896265040649" remote="131378824200000000" Dst="2" />
+<file name="ajax_registrace_application.php" server="ftpadmin.autoskolaeasy.cz" local="131169775891879511" remote="130974552000000000" Dst="2" />
+<file name="ajax_registrace_delete.php" server="ftpadmin.autoskolaeasy.cz" local="131169775892225984" remote="130974552000000000" Dst="2" />
+<file name="ajax_registrace_vycvik.php" server="ftpadmin.autoskolaeasy.cz" local="131199116712917717" remote="131363274600000000" Dst="2" />
+<file name="ajax_registr_user_new.php" server="ftpadmin.autoskolaeasy.cz" local="131169775912219074" remote="130974552000000000" Dst="2" />
+<file name="ajax_registr_user_pausal_update.php" server="ftpadmin.autoskolaeasy.cz" local="131169775914521335" remote="130974552000000000" Dst="2" />
+<file name="ajax_registr_user_prava.php" server="ftpadmin.autoskolaeasy.cz" local="131169775914879126" remote="130974552000000000" Dst="2" />
+<file name="ajax_session_var.php" server="ftpadmin.autoskolaeasy.cz" local="131169775928686316" remote="130974552000000000" Dst="2" />
+<file name="ajax_ucitel_invoice_add.php" server="ftpadmin.autoskolaeasy.cz" local="131169775933993899" remote="131199078000000000" Dst="2" />
+<file name="ajax_ucitel_invoice_delete.php" server="ftpadmin.autoskolaeasy.cz" local="131169775937352878" remote="131199078000000000" Dst="2" />
+<file name="ajax_ucitel_invoice_lock.php" server="ftpadmin.autoskolaeasy.cz" local="131169775937732743" remote="131199078000000000" Dst="2" />
+<file name="ajax_ucitel_invoice_new.php" server="ftpadmin.autoskolaeasy.cz" local="131169775956290653" remote="131199078000000000" Dst="2" />
+<file name="ajax_ucitel_pokladna_vydej.php" server="ftpadmin.autoskolaeasy.cz" local="131169775956290653" remote="131199078000000000" Dst="2" />
+<file name="ajax_praxe_closedate.php" server="ftpadmin.autoskolaeasy.cz" local="131169775972965322" remote="130974552000000000" Dst="2" />
+<file name="ajax_ucitel_pokladna_zaloha.php" server="ftpadmin.autoskolaeasy.cz" local="131169775972965322" remote="131199078000000000" Dst="2" />
+<file name="ajax_ucitel_vykaz_table.php" server="ftpadmin.autoskolaeasy.cz" local="131265649610883612" remote="131363277600000000" Dst="2" />
+<file name="ajax_zkousky_insert.php" server="ftpadmin.autoskolaeasy.cz" local="131169775983980839" remote="130974552000000000" Dst="2" />
+<file name="ajax_zkousky_lock.php" server="ftpadmin.autoskolaeasy.cz" local="131169775985148977" remote="130974552000000000" Dst="2" />
+<file name="ajax_zkousky_table.php" server="ftpadmin.autoskolaeasy.cz" local="131169775985598677" remote="131321474400000000" Dst="1" />
+<file name="ajax_zkousky_vysledky_table.php" server="ftpadmin.autoskolaeasy.cz" local="131199062725556107" remote="131321474400000000" Dst="1" />
+<file name="ajax_zkousky_vysledky_update.php" server="ftpadmin.autoskolaeasy.cz" local="131169776019510225" remote="130974552000000000" Dst="2" />
+<file name="ajax_zkousky_zaci_delete.php" server="ftpadmin.autoskolaeasy.cz" local="131169776020352444" remote="130974552000000000" Dst="2" />
+<file name="ajax_zkousky_zaci_subject.php" server="ftpadmin.autoskolaeasy.cz" local="131169776036801408" remote="130974552000000000" Dst="2" />
+<file name="ajax_zkousky_zaci_insert.php" server="ftpadmin.autoskolaeasy.cz" local="131169776079735998" remote="130974552000000000" Dst="2" />
+<file name="ajax_zkousky_zaci_table.php" server="ftpadmin.autoskolaeasy.cz" local="131169776082802984" remote="131321474400000000" Dst="1" />
+<file name="inc_hlasenka_preview.php" server="ftpadmin.autoskolaeasy.cz" local="131169776082813012" remote="130974552000000000" Dst="2" />
+<file name="branch.json" server="ftpadmin.autoskolaeasy.cz" local="131169776083167229" remote="131199078000000000" Dst="2" />
+<file name="test.php" server="ftpadmin.autoskolaeasy.cz" local="131169776093957401" remote="131199078000000000" Dst="2" />
+<file name="ucitel_vykon.json" server="ftpadmin.autoskolaeasy.cz" local="131169776093957401" remote="131199078600000000" Dst="2" />
+<file name="test2.php" server="ftpadmin.autoskolaeasy.cz" local="131169776094358455" remote="131199078000000000" Dst="2" />
+<file name="ajax_registr_vehicle_new.php" server="ftpadmin.autoskolaeasy.cz" local="131317607027581551" remote="131317570800000000" Dst="1" />
+<file name="ajax_praxe_delete.php" server="ftpadmin.autoskolaeasy.cz" local="131189659671029175" remote="131352063000000000" Dst="2" />
+<file name="ajax_praxe_detail_insert.php" server="ftpadmin.autoskolaeasy.cz" local="131353873367011028" remote="131353801200000000" Dst="2" />
+</dwsync>

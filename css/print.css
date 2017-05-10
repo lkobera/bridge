@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+p, #invoice_price {font-size:8px}
+
+.noprint, .nav, .well, .btn {display:none}
+.printonly {display:block;}
+
+.noprint
+
+h1{font-size:16px;}
+h4{font-size:14px;}
+
+table {
+	font-size:8px;
+}
+
+tr {background-color:rgb(153,153,153);}
+
+th {
+	background-color:rgb(153,153,153);
+	font-size:8px;
+}
+
+	
+
