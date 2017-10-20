@@ -4,7 +4,6 @@
 	}
 	if ($_SERVER['HTTP_HOST']=='admin.autoskolaeasy.cz') {
 		$db_connect = mysqli_connect ('mysql5-4','aseasy.107299','matysek2009','aseasy_107299') or die('Nenavazane spojeni se serverem!');
-	}
-	
+	}	
 	$result = mysqli_query ($db_connect, "SET NAMES 'utf8'");
 ?>
